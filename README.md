@@ -4,3 +4,4 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 
 - [Resume :otter:](https://github.com/JorgeLiako1998/About-Me/blob/main/Liakopulos_Jorge.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jorge-liakopulos/)
+- [fav song](https://www.youtube.com/watch?v=mNEUkkoUoIA)
