@@ -5,3 +5,4 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 - [Resume :otter:](https://github.com/JorgeLiako1998/About-Me/blob/main/Liakopulos_Jorge.pdf)
 - [LinkedIn :technologist:](https://www.linkedin.com/in/jorge-liakopulos/)
 - [:dancer: ](https://www.youtube.com/watch?v=a5rlgE6dcBY)
+- Emily Evers :boxing_glove: :syringe: :drop_of_blood: :stethoscope:
