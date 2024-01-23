@@ -12,7 +12,7 @@
 Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professional with a Master's degree in Business Data Science & Analytics from Michigan State University. I'm skilled in Python, R, SQL, Tableau, and Power BI, as well as certified in Agile Scrum Master and Lean Six Sigma Green Belt. I'm fluent in English and Spanish, and passionate about using data to drive business growth.
 
 ## Professional Experience
-### Banco General, Panama City, Panama
+### [Banco General](https://www.bgeneral.com), Panama City, Panama
  #### Data Scientist
   - Created machine learning algorithms using Python, Git, Databricks and AWS to send push notifications for over 250,000 cutostomers to spend more depending on their purchase behavior.
   - Used clustering algorithms to bin customers based on their activity to activate dormant clients and keep customers using credit cards.
@@ -21,17 +21,17 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
   - Worked in Agile Scrum methodology.
   - Created regression models to predict customers earnings to offer services based on the model.
 
-### i-Cable Communications Limited, Hong Kong, Hong Kong
+### [i-Cable Communications Limited](https://www.i-cablecomm.com/en/home), Hong Kong, Hong Kong
  #### Business Intelligence Intern
   - Reviewed customer’s spending behavior, and customer insight of TV services, selling over $15,000,000 per month.
   - Reported potential risks, business opportunities, and how i-Cable should enhance data analysis approach to capture insight from databases in a timely and standardized manner.
   - Decreased costs from providing TV services by almost 15% by creating a projection of future TV service sales.
-### Textron, Detroit, Michigan
+### [Textron](https://www.textron.com), Detroit, Michigan
  #### Data Analysis Project
   - Predicted parts sales in the aviation industry for a Fortune 500 company to optimize part manufacturing.
   - Created regressions and time series analysis using SQL, Python and R.
   - Reported findings to data science team members to optimize the machine learning models created.
-### Niko’s Cafe, Panama City, Panama
+### [Niko’s Cafe](https://nikoscafe.com), Panama City, Panama
  #### Business Intelligence
   - Continually assessed delivery platforms' sales data using R, Python, and Tableau. Developed multivariate time series techniques to predict sales and explored factors affecting sales.
   - Delivered analysis to marketing team to make critical decisions on promotions, bundles, and prices.
@@ -50,7 +50,7 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 
 
 ## Technical Skills
-- Technical: Python, R, SQL, Tableau, Power BI, Excel, Microsoft Office, Microsoft 365, Salesforce, AWS, Jira
+- Technical: Python, R, SQL, Tableau, Power BI, Excel, Databricks, Microsoft Office, Microsoft 365, AWS, Jira
 - Certifications: Agile Scrum Master, Lean Six Sigma Green Belt
 - Languages: Spanish (Native), English (Fluent)
 - Michigan State University - Food Marketing Association (Former Vice-President)
