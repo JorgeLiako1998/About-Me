@@ -6,7 +6,7 @@
  - [Introduction](#introduction)
  - [Professional Experience](#professional-experience)
  - [Education](#education)
- - [LinkedIn :technologist:](https://www.linkedin.com/in/jorge-liakopulos/)
+ - [LinkedIn](https://www.linkedin.com/in/jorge-liakopulos/)
 
 ### Introduction
 Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professional with a Master's degree in Business Data Science & Analytics from Michigan State University. I'm skilled in Python, R, SQL, Tableau, and Power BI, as well as certified in Agile Scrum Master and Lean Six Sigma Green Belt. I'm fluent in English and Spanish, and passionate about using data to drive business growth.
@@ -14,7 +14,13 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 ## Professional Experience
 ### Banco General, Panama City, Panama
  #### Data Scientist
-  - 
+  - Created machine learning algorithms using Python, Git, Databricks and AWS to send push notifications for over 250,000 cutostomers to spend more depending on their purchase behavior.
+  - Used clustering algorithms to bin customers based on their activity to activate dormant clients and keep customers using credit cards.
+  - Created NLP project to bin business owners based on their LLC description.
+  - Created dashboards to track down credit card metrics.
+  - Worked in Agile Scrum methodology.
+  - Created regression models to predict customers earnings to offer services based on the model.
+
 ### i-Cable Communications Limited, Hong Kong, Hong Kong
  #### Business Intelligence Intern
   - Reviewed customer’s spending behavior, and customer insight of TV services, selling over $15,000,000 per month.
