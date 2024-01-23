@@ -10,7 +10,7 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 ## Professional Experience
 
 ### [Banco General](https://www.bgeneral.com), Panama City, Panama
-#### Data Scientist
+#### Data Scientist (July 2023 - Present)
 - Developed machine learning algorithms (Python, Git, Databricks, AWS) for push notifications, leading to [quantify impact] increase in customer spending.
 - Utilized clustering algorithms to activate dormant clients and optimize credit card usage, contributing to [quantify impact] business growth.
 - Implemented NLP project to categorize business owners based on LLC descriptions.
@@ -18,32 +18,32 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 - Developed regression models to predict customer earnings for targeted services.
 
 ### [i-Cable Communications Limited](https://www.i-cablecomm.com/en/home), Hong Kong, Hong Kong
-#### Business Intelligence Intern
+#### Business Intelligence Intern (May 2022 - September 2022)
 - Analyzed customer spending behavior and TV services, contributing to monthly sales of over $15,000,000.
 - Identified potential risks and business opportunities, recommending enhancements to data analysis approaches.
 - Reduced TV service costs by nearly 15% through future sales projections.
 
 ### [Textron](https://www.textron.com), Detroit, Michigan
-#### Data Analysis Project
+#### Data Analysis Project (February 2022 - May 2022)
 - Predicted parts sales in the aviation industry, optimizing part manufacturing (SQL, Python, R).
 - Reported findings to data science team for model optimization.
 
 ### [Niko’s Cafe](https://nikoscafe.com), Panama City, Panama
-#### Business Intelligence
+#### Business Intelligence (April 2020 - December 2021)
 - Analyzed delivery platforms' sales data using R, Python, and Tableau.
 - Implemented multivariate time series techniques to predict sales and identified factors affecting sales.
 - Increased restaurant delivery sales by 15% through strategic decisions on promotions and pricing.
 
 ### FrigoLogic, Panama City, Panama
-#### Founder & CEO
+#### Founder & CEO (October 2015 - December 2020)
 - Launched a successful truck rental business, achieving an annual profit of $175,000.
 - Orchestrated daily activities for a team of 8, ensuring on-time delivery completion.
 - Developed HACCP protocols, reducing clients' food waste by 10%.
 
 ## Education
 #### Michigan State University, East Lansing, MI
-- Master of Science, Business Data Science & Analytics
-- Bachelor of Science, Food Industry Management
+- Master of Science, Business Data Science & Analytics (January 2022 - December 2022)
+- Bachelor of Science, Food Industry Management (September 2017 - May 2021)
 - Former Vice-President, Michigan State University - Food Marketing Association
 
 ## Technical Skills
