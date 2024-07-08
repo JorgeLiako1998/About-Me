@@ -11,8 +11,8 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 
 ### [Banco General](https://www.bgeneral.com), Panama City, Panama
 #### Data Scientist (July 2023 - Present)
-- Developed machine learning algorithms (Python, Git, Databricks, AWS) for push notifications, leading to [quantify impact] increase in customer spending.
-- Utilized clustering algorithms to activate dormant clients and optimize credit card usage, contributing to [quantify impact] business growth.
+- Developed machine learning algorithms (Python, Git, Databricks, AWS) in multiple projects.
+- Utilized clustering algorithms to activate dormant clients and optimize credit card usage.
 - Implemented NLP project to categorize business owners based on LLC descriptions.
 - Created dashboards for tracking credit card metrics. Worked in Agile Scrum methodology.
 - Developed regression models to predict customer earnings for targeted services.
