@@ -1,38 +1,41 @@
 <h1 align="center">
- Jorge Liakopulos
+ Jorge C. Liakopulos
 </h1>
 
-## [LinkedIn](https://www.linkedin.com/in/jorge-liakopulos/)
+<p align="center">
+ Panama City, Panama • <a href="mailto:jorgeliakopulos@outlook.com">jorgeliakopulos@outlook.com</a> • <a href="https://www.linkedin.com/in/jorge-liakopulos/">LinkedIn</a>
+</p>
 
 ### Introduction
-Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professional with a Master's degree in Business Data Science & Analytics from Michigan State University. I'm fluent in English and Spanish, passionate about using data to drive business growth, and skilled in Python, R, SQL, Tableau, and Power BI. Certified in Agile Scrum Master and Lean Six Sigma Green Belt.
+Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a Senior Data Scientist at Banco General (BGLab) with a Master's degree in Business Data Science & Analytics from Michigan State University. I build and deploy production machine learning — propensity scoring, income estimation, uplift modeling and causal inference — on end-to-end MLOps pipelines with Databricks, MLflow, Kedro and AWS, under full Model Risk Management (MRM) compliance. I'm fluent in English and Spanish and certified in Agile Scrum Master and Lean Six Sigma Green Belt.
 
 ## Professional Experience
 
-### [Banco General](https://www.bgeneral.com), Panama City, Panama
-#### Data Scientist (July 2023 - Present)
-- Developed machine learning algorithms (Python, Git, Databricks, AWS) in multiple projects.
-- Utilized clustering algorithms to activate dormant clients and optimize credit card usage.
-- Implemented NLP project to categorize business owners based on LLC descriptions.
-- Created dashboards for tracking credit card metrics. Worked in Agile Scrum methodology.
-- Developed regression models to predict customer earnings for targeted services.
+### [Banco General (BGLab)](https://www.bgeneral.com), Panama City, Panama
+#### Senior Data Scientist (July 2023 - September 2026)
+- Developed and deployed 20+ production ML models (propensity scoring, income estimation, digital adoption, offer personalization) covering the bank's entire active customer base using Python, LightGBM, XGBoost and PySpark on Databricks.
+- Designed automated end-to-end ML pipelines with Kedro, MLflow, Delta Lake and AWS, enabling monthly retraining, continuous drift monitoring and full Model Risk Management (MRM) compliance across 11 financial product lines.
+- Drove commercial campaign conversion through predictive segmentation and prioritized scoring (uplift modeling and causal inference) in digital marketing campaigns.
+- Implemented model explainability at scale with SHAP values; delivered executive dashboards translating model results into actionable business recommendations for non-technical stakeholders.
+- Automated monitoring of data drift, bias and model stability in production, reducing manual validation effort and ensuring regulatory compliance.
+- Designed and maintained Yaydro, a reusable internal ML framework (a custom fork of Kedro), standardizing pipeline development across the data science team.
 
-### [i-Cable Communications Limited](https://www.i-cablecomm.com/en/home), Hong Kong, Hong Kong
+### [i-Cable Communications Limited](https://www.i-cablecomm.com/en/home), Hong Kong
 #### Business Intelligence Intern (May 2022 - September 2022)
-- Analyzed customer spending behavior and TV services, contributing to monthly sales of over $15,000,000.
-- Identified potential risks and business opportunities, recommending enhancements to data analysis approaches.
-- Reduced TV service costs by nearly 15% through future sales projections.
+- Analyzed customer spending behavior and TV service usage patterns, contributing insights that supported over $15M USD in monthly sales.
+- Identified business risks and growth opportunities through statistical analysis; recommended improvements to analytical methodologies and operational processes.
+- Reduced TV service delivery costs by 15% through sales projection and demand forecasting models.
 
 ### [Textron](https://www.textron.com), Detroit, Michigan
-#### Data Analysis Project (February 2022 - May 2022)
-- Predicted parts sales in the aviation industry, optimizing part manufacturing (SQL, Python, R).
-- Reported findings to data science team for model optimization.
+#### Data Analytics Consultant (February 2022 - May 2022)
+- Built regression and time series models in Python and SQL to forecast parts sales in the aviation industry, providing business planning insights to senior leadership.
+- Optimized ML model performance through iterative feature engineering and hyperparameter tuning, improving predictive accuracy.
 
-### [Niko’s Cafe](https://nikoscafe.com), Panama City, Panama
-#### Business Intelligence (April 2020 - December 2021)
-- Analyzed delivery platforms' sales data using R, Python, and Tableau.
-- Implemented multivariate time series techniques to predict sales and identified factors affecting sales.
-- Increased restaurant delivery sales by 15% through strategic decisions on promotions and pricing.
+### [Niko's Cafe](https://nikoscafe.com), Panama City, Panama
+#### Business Intelligence Analyst (April 2020 - December 2021)
+- Evaluated delivery platform sales data using Python and Tableau for visualization and statistical analysis, providing business intelligence for operational decisions.
+- Developed time series forecasting techniques and identified the main drivers of sales performance.
+- Increased delivery sales by 15% through location-based trend analysis and pricing optimization.
 
 ### FrigoLogic, Panama City, Panama
 #### Founder & CEO (October 2015 - December 2020)
@@ -42,11 +45,15 @@ Hi, I'm [Jorge](https://www.linkedin.com/in/jorge-liakopulos/), a data professio
 
 ## Education
 #### Michigan State University, East Lansing, MI
-- Master of Science, Business Data Science & Analytics (January 2022 - December 2022)
-- Bachelor of Science, Food Industry Management (September 2017 - May 2021)
+- Master of Science, Business Data Science & Analytics — Eli Broad College of Business (December 2022)
+- Bachelor of Science, Food Industry Management — College of Agriculture & Natural Resources (May 2021)
 - Former Vice-President, Michigan State University - Food Marketing Association
 
 ## Technical Skills
-- **Technical:** Python, R, SQL, Tableau, Power BI, Excel, Databricks, Microsoft Office, Microsoft 365, AWS, Jira
+- **Languages & Tools:** Python, SQL, PySpark, R
+- **ML/DS:** LightGBM, XGBoost, scikit-learn, SHAP, uplift modeling, causal inference, propensity scoring, Mixture of Experts / GMM architectures
+- **MLOps & Infrastructure:** Databricks, MLflow, Kedro, Delta Lake, AWS
+- **Visualization:** Tableau, Power BI, Excel
+- **Governance:** Model Risk Management (MRM) compliance, drift/bias monitoring
 - **Certifications:** Agile Scrum Master, Lean Six Sigma Green Belt
 - **Languages:** Spanish (Native), English (Fluent)
